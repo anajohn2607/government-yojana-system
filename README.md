@@ -26,4 +26,4 @@ This project solves the problem of scattered and unorganized information about g
 ---
 
 ## 📁 Project Struct
-ty/ │── index.php │── config/ │── assets/ │── database/ │── includes/
+Government_Yojana/ │── index.php │── config/ │── assets/ │── database/ │── includes/
