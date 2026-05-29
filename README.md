@@ -18,6 +18,16 @@ This project solves the problem of scattered and unorganized information about g
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home](screenshot1.png)
+
+### 📋 Scheme List
+![Schemes](screenshot2.png)
+
+---
+
 ## 🛠 Tech Stack
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** PHP  
@@ -27,3 +37,7 @@ This project solves the problem of scattered and unorganized information about g
 
 ## 📁 Project Struct
 Government_Yojana/ │── index.php │── config/ │── assets/ │── database/ │── includes/
+
+---
+
+
