@@ -40,4 +40,13 @@ Government_Yojana/ │── index.php │── config/ │── assets/ │�
 
 ---
 
+## ⚙️ How to Run
+1. Install XAMPP or any local server  
+2. Place the project folder inside `htdocs`  
+3. Import the database file into phpMyAdmin  
+4. Start Apache and MySQL  
+5. Open browser and run:
+
+http://localhost/Government_Yojana
+
 
